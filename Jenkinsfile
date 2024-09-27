@@ -5,7 +5,7 @@ pipeline {
         // Define Docker Hub credentials ID
         DOCKERHUB_CREDENTIALS_ID = 'dockerhub_credentials'
         // Define Docker Hub repository name
-        DOCKERHUB_REPO = 'jesperss/tempconverterdocker'
+        DOCKERHUB_REPO = 'jesperss/timeconverter'
         // Define Docker image tag
         DOCKER_IMAGE_TAG = 'latest'
     }
